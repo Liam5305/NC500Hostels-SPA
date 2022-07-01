@@ -1,0 +1,14 @@
+.App {
+  background-color: aqua;
+  text-align: center;
+}
+
+.button-reviews {
+  background-color: aqua;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
